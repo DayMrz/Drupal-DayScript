@@ -1,7 +1,7 @@
 name: Shiro
 type: theme
 description: 'a theme for basic white and classic sites'
-base theme: classy
+base theme: false
 version: '9.3.14'
 regions: 
   header: 'Header'
